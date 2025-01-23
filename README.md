@@ -46,6 +46,11 @@
 - transform
 - activemq
 
+  - Parar Solr:
+  ```
+  sudo systemctl stop solr
+  ```
+
 ### Inicio de Servicios
 - activemq
 - transform
