@@ -40,23 +40,30 @@
 
 ## Servicios Relacionados
 
-### Parada de Servicios
-- solr
-- tomcat
-- transform
-- activemq
-
-  - Parar Solr:
-  ```
   sudo systemctl stop solr
+  ```
+  ```
+  sudo systemctl stop tomcat
+  ```
+  ```
+  sudo systemctl stop transform
+  ```
+  ```
+  sudo systemctl stop activemq
   ```
 
 ### Inicio de Servicios
-- activemq
-- transform
-- tomcat
-- solr
-
+ 
+ sudo systemctl stop activemq
+  ```
+  ```
+  sudo systemctl stop transform
+  ```
+  ```
+  sudo systemctl stop tomcat
+  ```
+  ```
+  sudo systemctl stop solr
 ---
 
 ## Ubicación de Archivos Importantes
