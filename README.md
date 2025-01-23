@@ -100,7 +100,7 @@ Logs importantes:
 - `share.log.*`: Actividades en Alfresco Share
 
 ---
-### Planificaor de tareas
+### Planificador de tareas
  ```
   vi /etc/crontab
  ```
@@ -108,7 +108,7 @@ Logs importantes:
 
 ### Revisión de Logs en Tiempo Real
 ```
-tail -f /opt/alfresco-content-services-7.2/apache-tomcat-9.0.62/logs/alfresco.log
+tail -f /opt/alfresco-content-services-7.2/apache-tomcat-9.0.62/alfresco.log
 ```
 
 ### Monitoreo del Sistema
