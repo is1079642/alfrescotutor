@@ -100,7 +100,10 @@ Logs importantes:
 - `share.log.*`: Actividades en Alfresco Share
 
 ---
-
+### Planificaor de tareas
+ ```
+  vi /etc/crontab
+ ```
 ## Resolución de Problemas Comunes
 
 ### Revisión de Logs en Tiempo Real
