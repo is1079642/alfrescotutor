@@ -135,10 +135,6 @@ Comandos útiles:
 - Ubicación de archivos clave
 - Técnicas básicas de resolución de problemas
 
-### Próximos Pasos
-- Aprender configuración avanzada
-- Profundizar en administración de Alfresco
-
 ---
 
 ## Preguntas
