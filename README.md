@@ -39,6 +39,7 @@
 ---
 
 ## Servicios Relacionados
+### Parada de Servicios
 - Parar  solr:
   ```
   sudo systemctl stop solr
