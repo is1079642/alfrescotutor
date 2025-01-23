@@ -39,15 +39,12 @@
 ---
 
 ## Servicios Relacionados
-
+- 
   sudo systemctl stop solr
-  ```
   ```
   sudo systemctl stop tomcat
   ```
-  ```
   sudo systemctl stop transform
-  ```
   ```
   sudo systemctl stop activemq
   ```
